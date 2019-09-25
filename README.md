@@ -1,3 +1,3 @@
 # bot
 
-A simple implementation of bot
+A simple implementation of a botnet
