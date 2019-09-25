@@ -1,6 +1,5 @@
 from modules import db,bot,printer
 def main():
-    """This Module get's all the avlaible bots that are online"""
     db.connect()
     hosts=db.get_online()
     shells=['sh','bash','']
