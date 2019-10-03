@@ -7,7 +7,6 @@ from modules import printer
 from time import sleep
 import getpass
 
-parser=optparse.OptionParser()
 print(printer.color_blue("▗    ▗▖ ▗▄▄")+printer.color_red("      ▗▖  ▗▄  ▗▄ ▗▄▄▖ ▄▄  ▄▄ "))
 print(printer.color_blue("▐    ▐▌ ▐  ▌")+printer.color_red("     ▐▌ ▗▘ ▘▗▘ ▘▐   ▐▘ ▘▐▘ ▘"))
 print(printer.color_blue("▐    ▌▐ ▐▄▄▘")+printer.color_red("     ▌▐ ▐   ▐   ▐▄▄▖▝▙▄ ▝▙▄ "))
